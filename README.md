@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This project showcases my work, ski
 
 🌐 Live Website
 
-🔗 Portfolio: https://xlavel.github.io/XavierVeloso.github.io/
+🔗 Portfolio: https://xlavel.github.io/XavierVeloso/
 
 🔗 LinkedIn: https://www.linkedin.com/in/xavierveloso/
 
